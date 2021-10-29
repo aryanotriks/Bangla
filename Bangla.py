@@ -96,7 +96,7 @@ logo = """
 \033[1;96m (_______)_) (_)( ) (_)_) (_)(_) (_)   (_)  (_) (_)
 \033[1;97m                /(                                 
 \033[1;94m               (__)                  
-\033[1;93m\033[1;92m\033[1;93m WhatsApp Number \033[1;94m\033[1;95m\033[1;93m  \033[1;96m\033[1;93m +923482860857 \033[1;92m\033[1;95m
+\033[1;93m\033[1;92m\033[1;93m WhatsApp Number \033[1;94m\033[1;95m\033[1;93m  \033[1;96m\033[1;93m +923472860857 \033[1;92m\033[1;95m
 \033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;91mMR-ROBOT\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -220,11 +220,11 @@ def login():
 	os.system('clear')
 	print logo
         print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m1.\x1b[1;96m Fast Cloning Without Fb ID\033[1;92m[New Update]"
-        time.sleep(0.05)
+        time.sleep(0.1)
         print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m2.\x1b[1;94m Mr-Robot   WhatsApp Group   "
-        time.sleep(0.05)
+        time.sleep(0.2)
         print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m3.\x1b[1;91m Mr-Robot   Youtube Channel   "
-        time.sleep(0.05)
+        time.sleep(0.3)
 	print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91m Exit             "
 	pilih_login()
 	
@@ -282,7 +282,7 @@ def action():
         os.system('clear')
 	xxx = str(len(id))
 	jalan ('[✓] Total Numbers: '+xxx)
-	time.sleep(0.05)
+	 time.sleep(0.05)
 	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
 	time.sleep(0.05)
 	jalan ('[!] To Stop Process Press CTRL Then Press z')
